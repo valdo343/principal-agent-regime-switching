@@ -34,7 +34,7 @@ Record = Dict[str, Any]
 # Para usar otra familia, cambiar FAMILY_NAME, las funciones de contrato
 # y el diccionario que regresa get_contracts().
 
-FAMILY_NAME = "Nombre de la familia"
+FAMILY_NAME = "Contratos de escala fija"
 
 
 def contract_1(t):
