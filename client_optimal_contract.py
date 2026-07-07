@@ -546,7 +546,7 @@ def correr_demo_rapido():
     beta_candidates = malla_beta_caja(
         beta_min=[0.0, 0.0, 0.0],
         beta_max=[2.0, 2.0, 2.0],
-        niveles=[7, 7, 7],
+        niveles=[5, 5, 5],
     )
 
     print(f"Evaluando {len(beta_candidates)} contratos Bernstein grado 2...")
